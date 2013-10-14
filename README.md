@@ -6,6 +6,8 @@ Description
 
 This is a REST API that controls creating, retrieving, updating, and deleting users via JSON.  It is written in C#, and it uses ASP.NET MVC and Entity Framework Code First.
 
+The project was created in Visual Studio Express 2012 for Web; it has not been tested in earlier versions of Visual Studio.
+
 Specification
 -------------
 
